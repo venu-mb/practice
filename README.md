@@ -1,1 +1,1 @@
-# practice
+# practice is a best practice
